@@ -1,0 +1,6 @@
+[user]
+    name = Godfrey Nolan
+    email = gnolan@ltu.edu
+
+[push]
+    default = simple

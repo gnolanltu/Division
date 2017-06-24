@@ -14,6 +14,9 @@
 		CE57117D1EFEAE3800F84870 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE57117B1EFEAE3800F84870 /* LaunchScreen.storyboard */; };
 		CE5711881EFEAE3800F84870 /* DivisionTDDTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5711871EFEAE3800F84870 /* DivisionTDDTests.swift */; };
 		CE5711931EFEAE3800F84870 /* DivisionTDDUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5711921EFEAE3800F84870 /* DivisionTDDUITests.swift */; };
+		CE5711A11EFEB42E00F84870 /* CalculatorBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5711A01EFEB42E00F84870 /* CalculatorBrain.swift */; };
+		CE5711A21EFEB42E00F84870 /* CalculatorBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5711A01EFEB42E00F84870 /* CalculatorBrain.swift */; };
+		CE5711A31EFEB42E00F84870 /* CalculatorBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5711A01EFEB42E00F84870 /* CalculatorBrain.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +50,7 @@
 		CE57118E1EFEAE3800F84870 /* DivisionTDDUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DivisionTDDUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE5711921EFEAE3800F84870 /* DivisionTDDUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DivisionTDDUITests.swift; sourceTree = "<group>"; };
 		CE5711941EFEAE3800F84870 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CE5711A01EFEB42E00F84870 /* CalculatorBrain.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalculatorBrain.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +104,7 @@
 				CE5711721EFEAE3800F84870 /* AppDelegate.swift */,
 				CE5711741EFEAE3800F84870 /* ViewController.swift */,
 				CE5711761EFEAE3800F84870 /* Main.storyboard */,
+				CE5711A01EFEB42E00F84870 /* CalculatorBrain.swift */,
 				CE5711791EFEAE3800F84870 /* Assets.xcassets */,
 				CE57117B1EFEAE3800F84870 /* LaunchScreen.storyboard */,
 				CE57117E1EFEAE3800F84870 /* Info.plist */,
@@ -262,6 +267,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE5711A11EFEB42E00F84870 /* CalculatorBrain.swift in Sources */,
 				CE5711751EFEAE3800F84870 /* ViewController.swift in Sources */,
 				CE5711731EFEAE3800F84870 /* AppDelegate.swift in Sources */,
 			);
@@ -271,6 +277,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE5711A21EFEB42E00F84870 /* CalculatorBrain.swift in Sources */,
 				CE5711881EFEAE3800F84870 /* DivisionTDDTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -279,6 +286,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE5711A31EFEB42E00F84870 /* CalculatorBrain.swift in Sources */,
 				CE5711931EFEAE3800F84870 /* DivisionTDDUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
